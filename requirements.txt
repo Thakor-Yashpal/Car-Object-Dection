@@ -1,0 +1,13 @@
+torch>=1.10.0  # Minimum version for compatibility
+torchvision>=0.11.0 # Minimum version for compatibility
+opencv-python>=4.5.0 # General-purpose image and video processing
+numpy>=1.21.0      # Numerical computing
+ultralytics>=8.0.0 # YOLOv8 library (if using Version 2)
+
+# Optional dependencies (consider adding these if needed)
+Pillow>=8.0.0       # Python Imaging Library (PIL) for image handling
+matplotlib>=3.4.0  # Plotting and visualization
+scikit-learn>=1.0.0  # For training a linear classifier in Version 1 (if used)
+tqdm>=4.60.0        # Progress bars for training loops
+
+# Add any other project-specific dependencies here
