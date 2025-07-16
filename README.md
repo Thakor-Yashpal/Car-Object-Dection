@@ -33,8 +33,8 @@ This project leverages the power of YOLOv8 for real-time object detection and Op
     ```bash
     pip install -r requirements.txt
     ```
-
 ---
+[*(Replace with actual link to video output or upload `.mp4` to GitHub repo if small enough)*](https://github.com/user-attachments/assets/4bb6af6f-5687-46f4-a94a-0668f7083732)
 
 ## 📊 Notebooks & Demos
 
